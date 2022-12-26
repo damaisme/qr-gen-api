@@ -1,0 +1,26 @@
+{
+  "name": "qr-gen-api",
+  "version": "1.0.0",
+  "description": "npm package used : https://www.npmjs.com/package/qrcode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
+}
