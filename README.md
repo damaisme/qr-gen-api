@@ -19,6 +19,12 @@ npm install
 3\. Run
 ```
 npm start
+
+> qr-gen-api@1.0.0 start
+> node index.js
+
+Server listing on 3000
+
 ```
 <br>
 
