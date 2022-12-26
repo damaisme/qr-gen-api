@@ -4,6 +4,26 @@ npm package used : https://www.npmjs.com/package/qrcode
 
 In this project user can generate the QR code and download the file.
 
+### **How to run it**
+
+1\. Clone this repo
+```
+git clone https://github.com/radendi/qr-gen-api.git
+```
+
+2\. Install dependencies
+```
+npm install
+```
+
+3\. Run
+```
+npm start
+```
+<br>
+
+### **API Endpoint**
+
 #### Generate QR 
 Request
 ```
