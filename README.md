@@ -4,7 +4,7 @@ npm package used : https://www.npmjs.com/package/qrcode
 
 In this project user can generate the QR code and download the file.
 
-### **How to run it**
+## **How to run it**
 
 1\. Clone this repo
 ```
@@ -28,7 +28,7 @@ Server listing on 3000
 ```
 <br>
 
-### **API Endpoint**
+## **API Endpoint**
 
 #### Generate QR 
 Request
@@ -55,8 +55,9 @@ Parameter:
 Example Response <br>
 ![example-qr](https://user-images.githubusercontent.com/73756341/209530068-e4ece402-d70c-4764-9b92-4138d1f3adca.png)
 
+<br>
 
-### Run Unit Test
+## Run Unit Test
 This project covered with jest unit test, to run unit test you can use the npm test command
 ```
 npm test
