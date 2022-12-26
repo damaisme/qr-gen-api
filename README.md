@@ -55,3 +55,11 @@ Parameter:
 Example Response <br>
 ![example-qr](https://user-images.githubusercontent.com/73756341/209530068-e4ece402-d70c-4764-9b92-4138d1f3adca.png)
 
+
+### Run Unit Test
+This project covered with jest unit test, to run unit test you can use the npm test command
+```
+npm test
+```
+Example result:
+![Screenshot from 2022-12-26 16-19-22](https://user-images.githubusercontent.com/73756341/209530899-f0d50619-7cd0-4eab-ac6f-25445985f6be.png)
