@@ -14,7 +14,7 @@ async function generate(url){
         	}
         });
 
-        return {QR_code:src,img_src:file_path};
+        return {QR_code:src,file_path};
 }
 
 module.exports = { generate, default: generate}
