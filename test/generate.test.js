@@ -7,7 +7,7 @@ describe("Generate qr tests", () => {
  
    // assert
    expect(result.QR_code).toBeDefined();
-   expect(result.img_src).toBeDefined();
+   expect(result.file_path).toBeDefined();
  });
  
  test('Without url', async () => {
